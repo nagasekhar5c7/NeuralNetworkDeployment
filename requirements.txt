@@ -1,8 +1,4 @@
 Flask
-sklearn
-pandas
-numpy
-matplotlib
 gunicorn
 torch
 torchvision
